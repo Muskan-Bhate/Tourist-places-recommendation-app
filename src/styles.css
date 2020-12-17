@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0px;
+  background-color: #fce7f3;
+}
+h1 {
+  font-family: "Pacifico", cursive;
+}
+.Header {
+  background-image: url("https://www.wyndhamhotels.com/content/dam/creative-images/en-us/vo/flat/1x1/vo_1x1_flat_51225_ocean_walk_featured_prop_feb19.jpg?downsize=700:*");
+  background-repeat: 0px;
+  background-size: 100% 100%;
+  font-size: 2rem;
+  padding: 0.5rem;
+  margin-top: 0rem;
+}
+
+.Btncat {
+  padding-right: 1rem;
+  padding-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 1rem;
+  background-color: black;
+  color: white;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-weight: bolder;
+  font-size: 1rem;
+  border-radius: 1rem;
+}
+.Placeimage {
+  width: 450px;
+  height: 350px;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+.Placename {
+  font-size: 2rem;
+  font-weight: bolder;
+}
+.Placeloc {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.Rating {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
